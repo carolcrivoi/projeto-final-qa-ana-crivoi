@@ -1,8 +1,7 @@
 # Projeto-Final-QA-Ana-Crivoi
 
 ## Apresentação
-**Ana Carolina do Nascimento Crivoi**
-**GTI.5NA (5 semestre)**
+**Ana Carolina do Nascimento Crivoi - GTI.5NA (5 semestre)**
 
 Foi uma experiência muito boa com a disciplina,ter o entendendimento de como funcionam alguns processos que antes só ouvia falar (não sabia o funcionamento prático do Selenium, por exemplo). Já conhecia a área de QA, pois foi ela que me motivou a ingressar nesse curso de Gestão de TI, porém, até o momento só havia tido experiências mais teóricas, não tanto práticas.
 
