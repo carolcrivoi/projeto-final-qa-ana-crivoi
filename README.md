@@ -58,8 +58,10 @@ Para cada um dos três testes obrigatórios entregues na pasta /testes, responda
 
 A importância da cultura da qualidade durante todo o processo de construção do software. Não somente relacionado a entregas de aplicações/sistemas, mas a cultura da qualidade se aplica em um contexto geral do trabalho e da vida, pois norteia e baseia entregas assertivas, eficientes e de qualidade.
 
-Como você enxerga a área de QA no seu futuro profissional?
+**Como você enxerga a área de QA no seu futuro profissional?**
+
 Entendo que QA não se limita somente a especialidade específica de Quality Assurance, ou seja, o core dessa área é a garantia da qualidade do produto/serviço entregue. Pensando po esse lado, identificamos que QA deve estar presente tanto no presente, quanto no futuro profissional. Isso porquê, com conceitos de QA, podemos aplicar em todas as entregas que executamos. O simples fato de fazermos uma revisão do que fizemos e se está adequado com os requisitos/necessidades iniciais e se atende às expectativas propostas, já é uma atividade que realizamos para garantir a qualidade do trabalho entregue.
 
-Qual ferramenta ou tema mais chamou sua atenção e por quê?
+**Qual ferramenta ou tema mais chamou sua atenção e por quê?**
+
 O tema de automação de testes. Porquê a automação é uma grande aliada na otimização de tempo do QA, que pode utilizar esse período para focar em outras etapas do processo que também são importantes e exigem uma atuação manual.
