@@ -4,7 +4,7 @@
 **Ana Carolina do Nascimento Crivoi**
 **GTI.5NA (5 semestre)**
 
-Foi uma experiência muito boa com a disciplina, entender como funcionam alguns processos que antes só ouvia falar (não sabia o funcionamento prático do Selenium, por exemplo). Já conhecia a área de QA, pois foi ela que me motivou a ingressar na área de TI, porém, até o momento só havia tido experiências mais teóricas, não tanto práticas.
+Foi uma experiência muito boa com a disciplina,ter o entendendimento de como funcionam alguns processos que antes só ouvia falar (não sabia o funcionamento prático do Selenium, por exemplo). Já conhecia a área de QA, pois foi ela que me motivou a ingressar nesse curso de Gestão de TI, porém, até o momento só havia tido experiências mais teóricas, não tanto práticas.
 
 ## O que é Quality Assurance (QA)?
 QA vai além de testes de software. Entendo que se trata de uma cultura de qualidade, sobre tudo aquilo que precisa ser entregue, de forma com que gere valor às partes interessadas (todos stakeholders envolvidos). É muito importante no desenvolvimento de software, pois além de evitar retrabalhos, oferece uma garantia maior da eficiência e assertividade do produto que será entregue na ponta final, buscando sempre suprir e atender às expectativas definidas inicialmente.
